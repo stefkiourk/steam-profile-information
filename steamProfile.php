@@ -159,7 +159,6 @@ class mySteam extends WP_Widget
 				<input id="<?php echo $this->get_field_id( 'url' ); ?>" name="<?php echo $this->get_field_name( 'url' ); ?>" value="<?php echo $instance['url']; ?>" style="width:100%;" />
 			</p>
 			
-			
 			<table cellspacing="20">
 				<tr>
 					<td><label>Avatar: </label></td>
