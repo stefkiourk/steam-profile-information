@@ -141,7 +141,7 @@ class mySteam extends WP_Widget
 		$instance['PlayedGames'] = $new_instance['PlayedGames'];
 		$instance['AddFriendsViewGames'] = $new_instance['AddFriendsViewGames'];
 		
-        return $instance;
+        	return $instance;
 	}
 	
 	function form($instance)
