@@ -32,4 +32,4 @@ Of course. Use the wiki or drop me an email to [kiourkoulis.stefanos@gmail.com](
 ### _Can you help me adjusting this to my needs?_
 Most probably. See the previous question for contact details.
 
-*Author name: Stefanos Kiourkoulis*
+*Author: Stefanos Kiourkoulis*
