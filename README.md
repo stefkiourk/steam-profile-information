@@ -28,8 +28,6 @@ Like every other widget. After installing Steam Profile Information, it can be f
 I believe Valve doesn't provide a usable API for Trading Cards, yet.
 
 ### _Can I provide feedback?_
-Of course. Use the wiki or drop me an email to [kiourkoulis.stefanos@gmail.com](mailto:kiourkoulis.stefanos@gmail.com)
+Of course. Use the wiki or drop me an email [here](mailto:contact@stefki.com)
 ### _Can you help me adjusting this to my needs?_
 Most probably. See the previous question for contact details.
-
-*Author: Stefanos Kiourkoulis*
